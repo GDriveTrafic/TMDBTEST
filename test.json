@@ -1,0 +1,72 @@
+{
+    "config" : [
+        {
+            "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
+            
+            "int_interval" : 4,
+            "activate_ads" : "true",
+            "custom_banner" : "false",
+            "activate_rating" : "true",
+            "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
+            "network" : "fan",
+
+            "unity_game_id" : "5253909",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "	ca-app-pub-3940256099942544/1033173712",
+            "admob_rewarded" : "ca-app-pub-3940256099942544/5224354917",
+
+            "yandex_ban" : "R-M-2348961-1",
+            "yandex_native" : "R-M-2348961-2",
+            "yandex_int" : "R-M-2348961-3",
+            "yandex_rewarded" : "R-M-2348961-4",
+
+            "iron_key": "199fd39d5",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "a3a271ba3ced13fa",
+            "max_native" : "33de46e5ce56231d",
+            "max_int" : "451af0df11b166a5",
+            "max_reward" : "f9c057eaeb745887",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fan_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fan_int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fan_rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            
+            "activate_update_app": "false",
+            "update_title": "A new update is available, please update the app now!",
+            "update_link": "https://play.google.com/store/apps/details?id=com.frogmind.badland",
+            "update_ico": "https://play-lh.googleusercontent.com/M6ApeE_fvuWhwZ1HzAEoD0IRfqDST7IfmpqvcJFiU7rqRoPX88Pehah9lprTG3j8IQ",
+            
+            "activate_maintenance_app": "false",
+            "maintenance_title": "The app is under maintenance, please come back later!",
+            "maintenance_ico": "https://apps.unkie.net/img/maintenance.png"
+        }
+    ],
+    
+    "custom" : [
+        {
+            "name" : "Instale e abra o Shopee",
+            "title" : "Shopping App",
+            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
+            "ico2" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310",
+            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
+            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647"
+        }
+    ],
+    
+    "friends" : [
+        {
+            "name" : "Instale e abra o Shopee",
+            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
+            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647",
+            "cat" : "Shopping App",
+            "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
+        }
+    ]
+}
